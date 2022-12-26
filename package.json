@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leviarista/github-profile-header-generator.git"
+    "url": "git+https://github.com/damhoangthach/github-profile-header-generator.git"
   },
   "author": "Leví Arista",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leviarista/github-profile-header-generator/issues"
+    "url": "https://github.com/damhoangthach/github-profile-header-generator/issues"
   },
-  "homepage": "https://github.com/leviarista/github-profile-header-generator#readme",
+  "homepage": "https://github.com/damhoangthach/github-profile-header-generator#readme",
   "devDependencies": {
     "sass": "^1.49.9",
     "vite": "^2.8.0"

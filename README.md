@@ -1,10 +1,10 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/damhoangthach/github-profile-header-generator/main/social/repo-header-image.png"> </div>
 
 # Github Profile Header Generator
 
 ## What is it?
 
-A simple but nice header image generator for your Github profile Readme. [Website Link](https://leviarista.github.io/github-profile-header-generator/).
+A simple but nice header image generator for your Github profile Readme. [Website Link](https://damhoangthach.github.io/github-profile-header-generator/).
 
 ## How to use it?
 1. Create a nice github header image.  
@@ -17,11 +17,11 @@ A simple but nice header image generator for your Github profile Readme. [Websit
 
 ## Examples
 
-![Example 1](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png)
-![Example 2](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png)
-![Example 3](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)
-![Example 4](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-4.png)
-![Example 5](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-5.png)
+![Example 1](https://raw.githubusercontent.com/damhoangthach/github-profile-header-generator/main/social/examples/example-1.png)
+![Example 2](https://raw.githubusercontent.com/damhoangthach/github-profile-header-generator/main/social/examples/example-2.png)
+![Example 3](https://raw.githubusercontent.com/damhoangthach/github-profile-header-generator/main/social/examples/example-3.png)
+![Example 4](https://raw.githubusercontent.com/damhoangthach/github-profile-header-generator/main/social/examples/example-4.png)
+![Example 5](https://raw.githubusercontent.com/damhoangthach/github-profile-header-generator/main/social/examples/example-5.png)
 
 ## Features list
 
